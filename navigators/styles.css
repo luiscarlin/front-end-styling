@@ -30,3 +30,17 @@ header {
   width: 90%;
   margin: 0 auto;
 }
+
+nav {
+  padding-top: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+}
+
+.brand {
+  font-size: 3rem;
+  font-weight: 300;
+}
