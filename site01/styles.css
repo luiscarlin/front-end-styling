@@ -44,3 +44,15 @@ nav {
   font-size: 3rem;
   font-weight: 300;
 }
+
+.brand span {
+  color: crimson;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style: none;
+}
