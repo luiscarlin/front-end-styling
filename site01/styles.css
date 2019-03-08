@@ -56,3 +56,22 @@ nav ul {
 nav ul li {
   list-style: none;
 }
+
+/*
+  Notes:
+  padding will make the element grow within its border, while margin
+  will give it space outside its border.
+
+  position: relative will place the element in its static location,
+  but will allow you to use left and right to shift it.
+*/
+nav ul li a {
+  padding: 1rem 0;
+  margin: 0 3rem;
+  position: relative;
+  letter-spacing: 2px;
+}
+
+nav ul li a:last-child{
+  margin-right: 0;
+}
