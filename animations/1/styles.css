@@ -13,9 +13,11 @@ body {
   background: pink;
   width: 200px;
   height: 200px;
+  /* transition: <property to animate on> <duration> <timing function> */
   transition: transform 300ms ease-in-out;
 }
 
 .trigger:hover .box{
+  /* transforms an element (rotate, scale, translate, etc) */
   transform: translate(200px, 150px) rotate(20deg);
 }
