@@ -2,6 +2,6 @@
 
 Practicing frontend
 
-[Animations](./animations)
-[Layout](./layout)
-[Sites](./sites)
+- [Animations](./animations)
+- [Layout](./layout)
+- [Sites](./sites)
