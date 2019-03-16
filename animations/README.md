@@ -1,7 +1,9 @@
-## CSS Animations
+# CSS Animations
 
-Various samples of CSS Animations
+Going through DevTips' [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 
-### CSS Transition
-- [Tutorial](https://www.youtube.com/watch?v=8kK-cA99SA0)
-- [Site](./1)
+Practice site [Here](./site)
+
+## CSS Transition
+
+-
